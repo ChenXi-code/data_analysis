@@ -4,8 +4,7 @@
 .. toctree::
    :maxdepth: 2
    
-   python_base_knowledge.rst
-   how_to_study_py.rst
+   data_analysis_interview.md
 
 数据分析方法论
 ===================================
@@ -29,7 +28,7 @@
 .. toctree::
    :maxdepth: 4
 
-   python_base.md
+   how_to_study_py.rst
 
 
    
