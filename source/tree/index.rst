@@ -29,6 +29,3 @@
    :maxdepth: 4
 
    data_analysis_tool.md
-
-
-   
