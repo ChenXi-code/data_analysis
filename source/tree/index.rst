@@ -28,7 +28,7 @@
 .. toctree::
    :maxdepth: 4
 
-   data_analysis_tool.rst
+   data_analysis_tool.md
 
 
    
