@@ -12,7 +12,7 @@
 .. toctree::
    :maxdepth: 4
 
-   python_base.md
+   data_analysis_method.md
    
 数据分析实战
 ===================================
