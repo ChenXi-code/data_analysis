@@ -20,7 +20,7 @@
 .. toctree::
    :maxdepth: 4
 
-   python_base.md 
+   data_analysis_action.md
    
 数据分析工具
 ===================================
@@ -28,7 +28,7 @@
 .. toctree::
    :maxdepth: 4
 
-   how_to_study_py.rst
+   data_analysis_tool.rst
 
 
    
